@@ -47,5 +47,4 @@ int main() {
         printf("%s", screen);
     }
     getchar();
-    return 0;
 }
